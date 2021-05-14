@@ -16,7 +16,7 @@ This basically **UI** for TransactionApp in which user can send money through va
 
 ## Screenshots
 |||||
-|:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|:-----------------------------------------:|
+|:----------------------------------------:|:-----------------------------------------:|
 |  ![Screenshot_1621001672](https://user-images.githubusercontent.com/67942414/118283467-03447900-b4ed-11eb-9b6e-76807f820b81.png) |![Screenshot_1621001683](https://user-images.githubusercontent.com/67942414/118283544-1ce5c080-b4ed-11eb-9947-ce620ca264f3.png)
 
 
