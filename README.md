@@ -22,6 +22,6 @@ This basically **UI** for TransactionApp in which user can send money through va
 
 ## Resources
 Wappgo help me Learn this things\
-**https://wappgo.com**\
+**https://wappgo.com** \
 **Thankyou**\
-**Wappgo**
+**Wappgo**\
