@@ -1,6 +1,6 @@
 # TransactionAppUI
 
-This basically **UI** for TransactionApp in which user can send money through various platform and shows the person activity the tools used by the user
+This basically **UI** for TransactionApp in which user can send money through various platform and shows the person activity and the tools used by the user to the creativity and tells the user about the subscription experiy and active status and balance in the Wallet
 
 
 ## Features
